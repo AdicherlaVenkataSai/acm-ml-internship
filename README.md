@@ -1,6 +1,4 @@
-# Data Science
-
-## course links:
+# Data Science Courses
 
 ### 1. Harvard EdX DataScience Course:
 
@@ -35,3 +33,7 @@ Note: This course is free to audit!!!
 
 
 
+
+
+# Resources 
+link: https://drive.google.com/drive/folders/1_PNiL0efK4OLlerxRwi-q1xzxPE_-EEX?usp=sharing
