@@ -22,9 +22,11 @@ Note: Check out the courses, will be useful for Professional Growth in Machine L
 [Session Recording and Resources](https://drive.google.com/drive/folders/1B4-ROSnBi28ngntGrfARaCGR_V_5AxlT)   
 Note: Check out the assignment for Week 1 [here](https://drive.google.com/drive/folders/1hnRcA5Ehl_B5IlxWgeTX83y3NX7ZV_4W)    
 [Assignment Soultion]()   
-Note: Solution isn't available right now.   
 [txt](https://docs.google.com/document/d/1yFZHLRqD2fXqcUHhJeax9EHdKVkw3CehsPtUKlxOg1c/edit?usp=sharing)   
-[ppt](https://docs.google.com/presentation/d/11gibQ2hERG3WK2tlDTgzc7px8o9HLLkKIFciookATYA/edit?usp=sharing)
+[ppt](https://docs.google.com/presentation/d/11gibQ2hERG3WK2tlDTgzc7px8o9HLLkKIFciookATYA/edit?usp=sharing)   
+[Dataset](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/week%201/udemy_courses.csv)    
+[Code](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/week%201/week%201.ipynb)    
+Note: Code isn't complete!!! 
 
 
 
