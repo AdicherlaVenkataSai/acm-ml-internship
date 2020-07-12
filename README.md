@@ -18,7 +18,7 @@ kindly Create PR for the repository and contribute!!
 [Course 1 - Python for Beginners](https://geeksgod.com/udemy-free-course/python-for-beginners-basics-to-advanced/)    
 [Course 3 - Python](https://geeksgod.com/udemy-free-course/python-for-beginners-learn-all-the-basics-of-python/)
 [Course 2 - Machine Learning](https://geeksgod.com/udemy-free-course/step-by-step-guide-to-machine-learning/)   
-Note: Check out the courses, will be useful for Professional Growth in Machine Learning and Python.
+Note: Check out the courses, will be useful for Professional Growth in Machine Learning and Python.   
 [Session Recording and Resources](https://drive.google.com/drive/folders/1B4-ROSnBi28ngntGrfARaCGR_V_5AxlT)   
 Note: Check out the assignment for Week 1 [here](https://drive.google.com/drive/folders/1hnRcA5Ehl_B5IlxWgeTX83y3NX7ZV_4W)    
 [Assignment Soultion]()   
