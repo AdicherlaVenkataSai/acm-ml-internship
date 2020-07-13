@@ -25,7 +25,15 @@ Note: Check out the courses, will be useful for Professional Growth in Machine L
 [Session Recording and Resources](https://drive.google.com/drive/folders/1B4-ROSnBi28ngntGrfARaCGR_V_5AxlT)   
 Note: Check out the assignment for Week 1 [here](https://drive.google.com/drive/folders/1hnRcA5Ehl_B5IlxWgeTX83y3NX7ZV_4W)    
 [Assignment Soultion](https://github.com/AdicherlaVenkataSai/acm-ml-internship/tree/master/week%201)   
-Note: Solution isn't completed yet!!!
+Note: Solution isn't completed yet!!!   
+### DAY 4 | 13  July    
+[Session Recording]()
+
+
+For Additional Courses with free Certification/Books/Ebooks/CookBooks/CheatSheets/live sessions/many more details of Machine Learning, DataScience and Python [Click here...](https://github.com/AdicherlaVenkataSai/machine-learning-beginners-hub/blob/master/README.md)    
+Note:   
+If you find the information available is quite useful, FORK IT(many are yet to come)   
+IF want to contribute create a PR 
 
 
 
