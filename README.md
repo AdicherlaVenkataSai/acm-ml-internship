@@ -27,6 +27,10 @@ Note: Check out the assignment for Week 1 [here](https://drive.google.com/drive/
 [Assignment Soultion](https://github.com/AdicherlaVenkataSai/acm-ml-internship/tree/master/week%201)   
 Note: Solution isn't completed yet!!!   
 ### DAY 4 | 13  July    
+[Work on the assignment 1](https://drive.google.com/drive/folders/1hnRcA5Ehl_B5IlxWgeTX83y3NX7ZV_4W)    
+### DAY 5 | 14 July   
+[Work on the assignment 1](https://drive.google.com/drive/folders/1hnRcA5Ehl_B5IlxWgeTX83y3NX7ZV_4W)
+### DAY 6 | 15 July   
 [Work on the assignment 1](https://drive.google.com/drive/folders/1hnRcA5Ehl_B5IlxWgeTX83y3NX7ZV_4W)
 
 
