@@ -31,7 +31,11 @@ Note: Solution isn't completed yet!!!
 ### DAY 5 | 14 July   
 [Work on the assignment 1](https://drive.google.com/drive/folders/1hnRcA5Ehl_B5IlxWgeTX83y3NX7ZV_4W)
 ### DAY 6 | 15 July   
-[Work on the assignment 1](https://drive.google.com/drive/folders/1hnRcA5Ehl_B5IlxWgeTX83y3NX7ZV_4W)
+[Work on the assignment 1](https://drive.google.com/drive/folders/1hnRcA5Ehl_B5IlxWgeTX83y3NX7ZV_4W)    
+### DAY 7 | 16 July   
+[Work on the assignment 1](https://drive.google.com/drive/folders/1hnRcA5Ehl_B5IlxWgeTX83y3NX7ZV_4W)    
+[Quiz]()    
+Note: This weekend we have to attend a quiz, further details will be updated soon.
 
 
 
