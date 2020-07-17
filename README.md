@@ -36,7 +36,7 @@ Note: Solution isn't completed yet!!!
 ### DAY 7 | 16 July   
 [Work on the assignment 1](https://drive.google.com/drive/folders/1hnRcA5Ehl_B5IlxWgeTX83y3NX7ZV_4W)    
 ### DAY 8 | 17 July   
-[Submitted]()
+[Ckeck submission here..](https://github.com/AdicherlaVenkataSai/acm-ml-internship/tree/master/adicherla/week%201)
 
 
 
