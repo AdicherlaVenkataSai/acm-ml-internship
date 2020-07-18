@@ -7,8 +7,7 @@ kindly Create PR for the repository and contribute!!
 ## WEEK 1   
 [Resources](https://drive.google.com/drive/folders/1gCqtfG3NTapGiPJGgHsajWbi1FpbG9xp)   
 [Assignment Details](https://drive.google.com/drive/folders/1hnRcA5Ehl_B5IlxWgeTX83y3NX7ZV_4W)    
-[txt](https://docs.google.com/document/d/1yFZHLRqD2fXqcUHhJeax9EHdKVkw3CehsPtUKlxOg1c/edit?usp=sharing) || [PPT](https://docs.google.com/presentation/d/11gibQ2hERG3WK2tlDTgzc7px8o9HLLkKIFciookATYA/edit?usp=sharing) || [Udemy dataset](https://drive.google.com/file/d/1EDd0m2naDuXXwYZRwwEjMRztOF6ZrL_l/view?usp=sharing) || [Harvard dataset](https://drive.google.com/file/d/10jpyLp28eJPv1CPfBhyWM4OiQcrZNKdD/view?usp=sharing) || [Code](https://colab.research.google.com/drive/1MaMMC-TLH2ji4FEm-2AubHXRNQkiqHsP?usp=sharing) || [Quiz]()    
-Note: QUIZ is scheduled on Sunday(19th July) 8pm(not confirmed)   
+[txt](https://docs.google.com/document/d/1yFZHLRqD2fXqcUHhJeax9EHdKVkw3CehsPtUKlxOg1c/edit?usp=sharing) || [PPT](https://docs.google.com/presentation/d/11gibQ2hERG3WK2tlDTgzc7px8o9HLLkKIFciookATYA/edit?usp=sharing) || [Udemy dataset](https://drive.google.com/file/d/1EDd0m2naDuXXwYZRwwEjMRztOF6ZrL_l/view?usp=sharing) || [Harvard dataset](https://drive.google.com/file/d/10jpyLp28eJPv1CPfBhyWM4OiQcrZNKdD/view?usp=sharing) || [Code](https://colab.research.google.com/drive/1MaMMC-TLH2ji4FEm-2AubHXRNQkiqHsP?usp=sharing) || [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSe2sGo_gu1lQdEA0BSqVqQDfiKE_-v6DPgdj8Hpf7YrTxo2QA/viewform?vc=0&c=0&w=1&usp=mail_form_link)    
 Topics: SQL(beginner - advance level), Pandas, Numpy, Mathematics and concepts discussed in sessions.   
 Warning: Assignment deadline is on/before 17th July(11:59 pm) 
 ### DAY 1 | 10 July   
@@ -36,7 +35,10 @@ Note: Solution isn't completed yet!!!
 ### DAY 7 | 16 July   
 [Work on the assignment 1](https://drive.google.com/drive/folders/1hnRcA5Ehl_B5IlxWgeTX83y3NX7ZV_4W)    
 ### DAY 8 | 17 July   
-[Check submission here..](https://github.com/AdicherlaVenkataSai/acm-ml-internship/tree/master/adicherla/week%201)
+[Check submission here..](https://github.com/AdicherlaVenkataSai/acm-ml-internship/tree/master/adicherla/week%201)    
+### DAY9 | 18 July    
+[QUIZ](https://docs.google.com/forms/d/e/1FAIpQLSe2sGo_gu1lQdEA0BSqVqQDfiKE_-v6DPgdj8Hpf7YrTxo2QA/viewform?vc=0&c=0&w=1&usp=mail_form_link)   
+Note: Scheduled at 8:30pm(Completed)
 
 
 
