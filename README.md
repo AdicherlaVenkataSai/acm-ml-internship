@@ -37,6 +37,7 @@ Note: Solution isn't completed yet!!!
 ### DAY 8 | 17 July   
 [Check submission here..](https://github.com/AdicherlaVenkataSai/acm-ml-internship/tree/master/adicherla/week%201)    
 ### DAY9 | 18 July    
+[Session Recording and Resources](https://drive.google.com/folderview?id=12auVoHz6rpLPm5cCCP3_Ld7ZYuwHZcoV)   
 [QUIZ](https://docs.google.com/forms/d/e/1FAIpQLSe2sGo_gu1lQdEA0BSqVqQDfiKE_-v6DPgdj8Hpf7YrTxo2QA/viewform?vc=0&c=0&w=1&usp=mail_form_link)   
 Note: Scheduled at 8:30pm(Completed)
 
