@@ -43,6 +43,7 @@ Note: Scheduled at 8:30pm(Completed)
 [How I got a Job at Facebook, California](https://www.youtube.com/watch?v=XEHY2hQsHB8&feature=youtu.be)   
 ### DAY10 | 19 July   
 [Refreshing Concepts](https://drive.google.com/drive/folders/1w5JQjQNVsItKZaEL_6ZkO14auxGDg-TE?usp=sharing)   
+[A. Acacius and String | Codeforces Round #657 (Div 2)](https://www.youtube.com/watch?v=jyi0VSDFc90&feature=youtu.be)   
 ### DAY11 | 20 July   
 [Session Recording and Resources]()   
 Note: Topics(Linear, Logistic Regressions) Scheduled (7:30 pm, 20 July)    
