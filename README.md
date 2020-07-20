@@ -45,7 +45,7 @@ Note: Scheduled at 8:30pm(Completed)
 [Refreshing Concepts](https://drive.google.com/drive/folders/1w5JQjQNVsItKZaEL_6ZkO14auxGDg-TE?usp=sharing)   
 [A. Acacius and String | Codeforces Round #657 (Div 2)](https://www.youtube.com/watch?v=jyi0VSDFc90&feature=youtu.be)   
 ### DAY11 | 20 July   
-[Session Recording and Resources]()   
+[Session Recording and Resources](https://drive.google.com/file/d/1GOx2qZxE9amzXBD7c8miINb73wj2qMXs/view)   
 Note: Topics(Linear, Logistic Regressions) Scheduled (7:30 pm, 20 July)    
 
 
