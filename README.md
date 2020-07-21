@@ -9,7 +9,8 @@ kindly Create PR for the repository and contribute!!
 Topics: SQL(beginner - advance level), Pandas, Numpy, Mathematics and concepts discussed in sessions.   
 Warning: Assignment deadline is on/before 17th July(11:59 pm)   
 ## WEEK 2   
-[Resources](https://drive.google.com/drive/folders/13XMOwskEBk-_9qloihn1dsJElIBNjaIR) || [Assignment Details](https://drive.google.com/drive/folders/1tXUGuxdzwOTBZTd1073X2YE0YbMQ3IFz) || [PPT]() || [other]()
+[Resources](https://drive.google.com/drive/folders/13XMOwskEBk-_9qloihn1dsJElIBNjaIR) || [Assignment Details](https://drive.google.com/drive/folders/1tXUGuxdzwOTBZTd1073X2YE0YbMQ3IFz) || [PPT]() || [Dataset](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/adicherla/week%202/bank-full.csv) || [Code]()  
+Warning: Assignment deadline is on/before 25th July(11:59 pm)
  
 ### DAY 1 | 10 July   
 [Session Recording](https://www.dropbox.com/sh/wkwm1di477x5k0y/AABHhBxbE9VFT4NgynXsYV0Qa?dl=0)    
