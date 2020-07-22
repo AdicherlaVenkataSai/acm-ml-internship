@@ -51,7 +51,11 @@ Note: Scheduled at 8:30pm(Completed)
 Note: Topics(Linear, Logistic Regressions) Scheduled (7:30 pm, 20 July)   
 ### DAY12 | 21 July   
 [Session Recording and Resources](https://drive.google.com/file/d/1GOx2qZxE9amzXBD7c8miINb73wj2qMXs/view)   
-Note: Topics(web scrapping)
+Note: Topics(web scrapping)  
+### DAY13 | 22 July  
+[Codeforces problem A](https://www.youtube.com/watch?v=l7rFxqFC_m0&feature=youtu.be)  
+[Codeforces problem B](https://www.youtube.com/watch?v=uMqAJv5OS_I&feature=youtu.be)  
+[Codeforces problem C](https://www.youtube.com/watch?v=-BqH7BS4ThA&feature=youtu.be)
 
 
 
