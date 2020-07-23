@@ -55,7 +55,10 @@ Note: Topics(web scrapping)
 ### DAY13 | 22 July  
 [Codeforces problem A](https://www.youtube.com/watch?v=l7rFxqFC_m0&feature=youtu.be)  
 [Codeforces problem B](https://www.youtube.com/watch?v=uMqAJv5OS_I&feature=youtu.be)  
-[Codeforces problem C](https://www.youtube.com/watch?v=-BqH7BS4ThA&feature=youtu.be)
+[Codeforces problem C](https://www.youtube.com/watch?v=-BqH7BS4ThA&feature=youtu.be)  
+[Work on the assignment 2](https://colab.research.google.com/drive/1-3eViQahTbag15hlBVocLhJdU5lfTAQU?usp=sharing)  
+### DAY14 | 23 July  
+[Work on the assignment 2](https://colab.research.google.com/drive/1-3eViQahTbag15hlBVocLhJdU5lfTAQU?usp=sharing)
 
 
 
