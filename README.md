@@ -58,7 +58,9 @@ Note: Topics(web scrapping)
 [Codeforces problem C](https://www.youtube.com/watch?v=-BqH7BS4ThA&feature=youtu.be)  
 [Work on the assignment 2](https://colab.research.google.com/drive/1-3eViQahTbag15hlBVocLhJdU5lfTAQU?usp=sharing)  
 ### DAY14 | 23 July  
-[Work on the assignment 2](https://colab.research.google.com/drive/1-3eViQahTbag15hlBVocLhJdU5lfTAQU?usp=sharing)
+[Work on the assignment 2](https://colab.research.google.com/drive/1-3eViQahTbag15hlBVocLhJdU5lfTAQU?usp=sharing)  
+### DAY15 | 24 July  
+[Work on the assignment 2](https://colab.research.google.com/drive/1-3eViQahTbag15hlBVocLhJdU5lfTAQU?usp=sharing)  
 
 
 
