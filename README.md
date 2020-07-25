@@ -9,8 +9,15 @@ kindly Create PR for the repository and contribute!!
 Topics: SQL(beginner - advance level), Pandas, Numpy, Mathematics and concepts discussed in sessions.   
 Warning: Assignment deadline is on/before 17th July(11:59 pm)   
 ## WEEK 2   
-[Resources](https://drive.google.com/drive/folders/13XMOwskEBk-_9qloihn1dsJElIBNjaIR) || [Assignment Details](https://drive.google.com/drive/folders/1tXUGuxdzwOTBZTd1073X2YE0YbMQ3IFz) || [PPT]() || [Dataset](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/adicherla/week%202/bank-full.csv) || [Code]()  
-Warning: Assignment deadline is on/before 25th July(11:59 pm)
+[Resources](https://drive.google.com/drive/folders/13XMOwskEBk-_9qloihn1dsJElIBNjaIR) || [Assignment Details](https://drive.google.com/drive/folders/1tXUGuxdzwOTBZTd1073X2YE0YbMQ3IFz) || [PPT]() || [Dataset](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/adicherla/week%202/bank-full.csv) || [Code]() || [Quiz]()  
+Warning: Assignment deadline is on/before 25th July(11:59 pm)  
+Note: Quiz on Machine Learning (Scheduled 8:30pm, 25 July)
+  
+ 
+![ACM Interview Preparation Bootcamp](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/BootCamp.jpeg)  
+[Click here for more details...](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/ACM%20Bootcamp.pdf)  
+[Register here...](https://docs.google.com/forms/d/e/1FAIpQLSeISi89wkN6o_r1LMowi7pBZwIsXJHhfu5CkHbOoZVRrSc9rQ/viewform)
+
  
 ### DAY 1 | 10 July   
 [Session Recording](https://www.dropbox.com/sh/wkwm1di477x5k0y/AABHhBxbE9VFT4NgynXsYV0Qa?dl=0)    
@@ -61,6 +68,11 @@ Note: Topics(web scrapping)
 [Work on the assignment 2](https://colab.research.google.com/drive/1-3eViQahTbag15hlBVocLhJdU5lfTAQU?usp=sharing)  
 ### DAY15 | 24 July  
 [Work on the assignment 2](https://colab.research.google.com/drive/1-3eViQahTbag15hlBVocLhJdU5lfTAQU?usp=sharing)  
+### DAY16 | 25 July  
+[Codeforeces String Transformation](https://www.youtube.com/watch?v=_iwbXqf-3T8&feature=youtu.be)  
+[Work on the assignment 2](https://colab.research.google.com/drive/1-3eViQahTbag15hlBVocLhJdU5lfTAQU?usp=sharing)  
+[Check submission here...]()  
+Note: Quiz on Machine Learning (Scheduled 8:30pm, 25 July)
 
 
 
