@@ -1,7 +1,6 @@
 # ACM ISM DHANBAD MACHINE LEARNING INTERNSHIP   
-
-Guys    
-kindly Create PR for the repository and contribute!!    
+![poster](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/ACM%20LOC.jpg)
+   
 
 [ROADMAP](https://docs.google.com/document/d/1i_RnLREwEMPZ7rTyEBybQCHi_eiI7csW/edit)
 ## WEEK 1   
