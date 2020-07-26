@@ -8,7 +8,7 @@
 Topics: SQL(beginner - advance level), Pandas, Numpy, Mathematics and concepts discussed in sessions.   
 Warning: Assignment deadline is on/before 17th July(11:59 pm)   
 ## WEEK 2   
-[Resources](https://drive.google.com/drive/folders/13XMOwskEBk-_9qloihn1dsJElIBNjaIR) || [Assignment Details](https://drive.google.com/drive/folders/1tXUGuxdzwOTBZTd1073X2YE0YbMQ3IFz) || [PPT]() || [Dataset](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/adicherla/week%202/bank-full.csv) || [Code]() || [Quiz]()  
+[Resources](https://drive.google.com/drive/folders/13XMOwskEBk-_9qloihn1dsJElIBNjaIR) || [Assignment Details](https://drive.google.com/drive/folders/1tXUGuxdzwOTBZTd1073X2YE0YbMQ3IFz) || [PPT]() || [Dataset](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/adicherla/week%202/bank-full.csv) || [Code](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/adicherla/week%202/week_2%20(1).ipynb) || [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfeU9kKSBLx9zbdJIkssgfNisjChJNw4G_L4SKZ_L2cQLPb0Q/viewform)  
 Warning: Assignment deadline is on/before 25th July(11:59 pm)  
 Note: Quiz on Machine Learning (Scheduled 8:30pm, 25 July)
   
@@ -70,8 +70,10 @@ Note: Topics(web scrapping)
 ### DAY16 | 25 July  
 [Codeforeces String Transformation](https://www.youtube.com/watch?v=_iwbXqf-3T8&feature=youtu.be)  
 [Work on the assignment 2](https://colab.research.google.com/drive/1-3eViQahTbag15hlBVocLhJdU5lfTAQU?usp=sharing)  
-[Check submission here...]()  
-Note: Quiz on Machine Learning (Scheduled 8:30pm, 25 July)
+[Check submission here...](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/adicherla/week%202/week_2%20(1).ipynb)  
+Note: Quiz on Machine Learning (Scheduled 8:30pm, 25 July)     
+### DAY17 | 26 July     
+[Refreshing Concepts](https://drive.google.com/drive/folders/1w5JQjQNVsItKZaEL_6ZkO14auxGDg-TE?usp=sharing)
 
 
 
