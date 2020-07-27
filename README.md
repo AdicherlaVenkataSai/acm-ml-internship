@@ -44,36 +44,46 @@ Note: Solution isn't completed yet!!!
 [Work on the assignment 1](https://drive.google.com/drive/folders/1hnRcA5Ehl_B5IlxWgeTX83y3NX7ZV_4W)    
 ### DAY 8 | 17 July   
 [Check submission here..](https://github.com/AdicherlaVenkataSai/acm-ml-internship/tree/master/adicherla/week%201)    
-### DAY9 | 18 July    
+### DAY 9 | 18 July    
 [Session Recording and Resources](https://drive.google.com/folderview?id=12auVoHz6rpLPm5cCCP3_Ld7ZYuwHZcoV)   
 [QUIZ](https://docs.google.com/forms/d/e/1FAIpQLSe2sGo_gu1lQdEA0BSqVqQDfiKE_-v6DPgdj8Hpf7YrTxo2QA/viewform?vc=0&c=0&w=1&usp=mail_form_link)   
 Note: Scheduled at 8:30pm(Completed)    
 [How I got a Job at Facebook, California](https://www.youtube.com/watch?v=XEHY2hQsHB8&feature=youtu.be)   
-### DAY10 | 19 July   
+### DAY 10 | 19 July   
 [Refreshing Concepts](https://drive.google.com/drive/folders/1w5JQjQNVsItKZaEL_6ZkO14auxGDg-TE?usp=sharing)   
 [A. Acacius and String | Codeforces Round #657 (Div 2)](https://www.youtube.com/watch?v=jyi0VSDFc90&feature=youtu.be)   
-### DAY11 | 20 July   
+### DAY 11 | 20 July   
 [Session Recording and Resources](https://drive.google.com/file/d/1GOx2qZxE9amzXBD7c8miINb73wj2qMXs/view)   
 Note: Topics(Linear, Logistic Regressions) Scheduled (7:30 pm, 20 July)   
-### DAY12 | 21 July   
+### DAY 12 | 21 July   
 [Session Recording and Resources](https://drive.google.com/file/d/1GOx2qZxE9amzXBD7c8miINb73wj2qMXs/view)   
 Note: Topics(web scrapping)  
-### DAY13 | 22 July  
+### DAY 13 | 22 July  
 [Codeforces problem A](https://www.youtube.com/watch?v=l7rFxqFC_m0&feature=youtu.be)  
 [Codeforces problem B](https://www.youtube.com/watch?v=uMqAJv5OS_I&feature=youtu.be)  
 [Codeforces problem C](https://www.youtube.com/watch?v=-BqH7BS4ThA&feature=youtu.be)  
 [Work on the assignment 2](https://colab.research.google.com/drive/1-3eViQahTbag15hlBVocLhJdU5lfTAQU?usp=sharing)  
-### DAY14 | 23 July  
+### DAY 14 | 23 July  
 [Work on the assignment 2](https://colab.research.google.com/drive/1-3eViQahTbag15hlBVocLhJdU5lfTAQU?usp=sharing)  
-### DAY15 | 24 July  
+### DAY 15 | 24 July  
 [Work on the assignment 2](https://colab.research.google.com/drive/1-3eViQahTbag15hlBVocLhJdU5lfTAQU?usp=sharing)  
-### DAY16 | 25 July  
+### DAY 16 | 25 July  
 [Codeforeces String Transformation](https://www.youtube.com/watch?v=_iwbXqf-3T8&feature=youtu.be)  
 [Work on the assignment 2](https://colab.research.google.com/drive/1-3eViQahTbag15hlBVocLhJdU5lfTAQU?usp=sharing)  
 [Check submission here...](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/adicherla/week%202/week_2%20(1).ipynb)  
 Note: Quiz on Machine Learning (Scheduled 8:30pm, 25 July)     
-### DAY17 | 26 July     
-[Refreshing Concepts](https://drive.google.com/drive/folders/1w5JQjQNVsItKZaEL_6ZkO14auxGDg-TE?usp=sharing)
+### DAY 17 | 26 July     
+[Refreshing Concepts](https://drive.google.com/drive/folders/1w5JQjQNVsItKZaEL_6ZkO14auxGDg-TE?usp=sharing)    
+### DAY 18 | 27 July     
+[Refreshing Concepts](https://drive.google.com/drive/folders/1w5JQjQNVsItKZaEL_6ZkO14auxGDg-TE?usp=sharing)    
+ACM Interview Prep Bootcamp(Cheapest Bootcamp over the web) | [Video](https://youtu.be/OtSnwUbRQ6Q) || [Enroll here](https://forms.gle/B4CVJigFjsiHedi6A) || [more details](http://iitism.acm.org/ipc.html)
+-  40+ Video Lectures and LIVE sessions
+-  Mock Interviews
+-  LIVE Doubt Sessions
+-  Microsoft Course Completion Certificate
+-  Notes and Source Code      
+         
+
 
 
 
