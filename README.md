@@ -82,6 +82,9 @@ ACM Interview Prep Bootcamp(Cheapest Bootcamp over the web) | [Video](https://yo
 -  LIVE Doubt Sessions
 -  Microsoft Course Completion Certificate
 -  Notes and Source Code      
+### DAY 19 | 28 July     
+[Refreshing Concepts](https://drive.google.com/drive/folders/1w5JQjQNVsItKZaEL_6ZkO14auxGDg-TE?usp=sharing)    
+Note: Recommendation Systems (Session 12:00, 29 July)
          
 
 
