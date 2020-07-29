@@ -10,10 +10,17 @@ Warning: Assignment deadline is on/before 17th July(11:59 pm)
 ## WEEK 2   
 [Resources](https://drive.google.com/drive/folders/13XMOwskEBk-_9qloihn1dsJElIBNjaIR) || [Assignment Details](https://drive.google.com/drive/folders/1tXUGuxdzwOTBZTd1073X2YE0YbMQ3IFz) || [PPT]() || [Dataset](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/adicherla/week%202/bank-full.csv) || [Code](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/adicherla/week%202/week_2%20(1).ipynb) || [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfeU9kKSBLx9zbdJIkssgfNisjChJNw4G_L4SKZ_L2cQLPb0Q/viewform)  
 Warning: Assignment deadline is on/before 25th July(11:59 pm)  
-Note: Quiz on Machine Learning (Scheduled 8:30pm, 25 July)
-  
- 
-![ACM Interview Preparation Bootcamp](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/BootCamp.jpeg)  
+Note: Quiz on Machine Learning (Scheduled 8:30pm, 25 July)     
+## WEEK 3      
+[Resources](https://drive.google.com/drive/u/0/folders/1DTLaqsKjJXCdGf5qZYSRqYj-mLfrRjHy) || [Code]() || [Quiz]()    
+Note:
+-  Recommendation system 
+-  Can choose any data (the resource link has Books Dataset)
+-  Can choose any algorithm (Preferably Unsupervised)    
+Warning: We'll use the same system in the 4th week, mean we deploy the model.
+
+
+[ACM Interview Preparation Bootcamp](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/BootCamp.jpeg)  
 [Click here for more details...](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/ACM%20Bootcamp.pdf)  
 [Register here...](https://docs.google.com/forms/d/e/1FAIpQLSeISi89wkN6o_r1LMowi7pBZwIsXJHhfu5CkHbOoZVRrSc9rQ/viewform)
 
@@ -76,7 +83,7 @@ Note: Quiz on Machine Learning (Scheduled 8:30pm, 25 July)
 [Refreshing Concepts](https://drive.google.com/drive/folders/1w5JQjQNVsItKZaEL_6ZkO14auxGDg-TE?usp=sharing)    
 ### DAY 18 | 27 July     
 [Refreshing Concepts](https://drive.google.com/drive/folders/1w5JQjQNVsItKZaEL_6ZkO14auxGDg-TE?usp=sharing)    
-ACM Interview Prep Bootcamp(Cheapest Bootcamp over the web) | [Video](https://youtu.be/OtSnwUbRQ6Q) || [Enroll here](https://forms.gle/B4CVJigFjsiHedi6A) || [more details](http://iitism.acm.org/ipc.html)
+ACM Interview Prep Bootcamp(Cheapest Bootcamp over the web) || [Video](https://youtu.be/OtSnwUbRQ6Q) || [Enroll here](https://forms.gle/B4CVJigFjsiHedi6A) || [more details](http://iitism.acm.org/ipc.html)
 -  40+ Video Lectures and LIVE sessions
 -  Mock Interviews
 -  LIVE Doubt Sessions
@@ -84,7 +91,14 @@ ACM Interview Prep Bootcamp(Cheapest Bootcamp over the web) | [Video](https://yo
 -  Notes and Source Code      
 ### DAY 19 | 28 July     
 [Refreshing Concepts](https://drive.google.com/drive/folders/1w5JQjQNVsItKZaEL_6ZkO14auxGDg-TE?usp=sharing)    
-Note: Recommendation Systems (Session 12:00, 29 July)
+Note: Recommendation Systems (Session 12:00, 29 July)    
+### DAY 20 | 29 July    
+[Session Recording and Resources](https://drive.google.com/drive/u/0/folders/1DTLaqsKjJXCdGf5qZYSRqYj-mLfrRjHy)      
+Note:
+-  Recommendation system 
+-  Can choose any data (the resource link has Books Dataset)
+-  Can choose any algorithm (Preferably Unsupervised)    
+Warning: We'll use the same system in the 4th week, mean we deploy the model.
          
 
 
