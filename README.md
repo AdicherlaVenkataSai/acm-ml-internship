@@ -98,7 +98,18 @@ Note:
 -  Recommendation system 
 -  Can choose any data (the resource link has Books Dataset)
 -  Can choose any algorithm (Preferably Unsupervised)    
-Warning: We'll use the same system in the 4th week, mean we deploy the model.
+Warning: We'll use the same system in the 4th week, mean we deploy the model.    
+### DAY 21 | 30 July
+[Session Recording and Resources](https://drive.google.com/drive/u/0/folders/1DTLaqsKjJXCdGf5qZYSRqYj-mLfrRjHy)      
+[Work on the assignment 3]()    
+### DAY 22 | 31 July    
+[Work on the assignment 3]()     
+### DAY 23 | 1 August      
+[Work on the assignment 3]()     
+### DAY 24 | 2 August      
+[Work on the assignment 3]()     
+[Check submission here...]()     
+Note: Submission on 2nd august.
          
 
 
