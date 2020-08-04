@@ -12,7 +12,7 @@ Warning: Assignment deadline is on/before 17th July(11:59 pm)
 Warning: Assignment deadline is on/before 25th July(11:59 pm)  
 Note: Quiz on Machine Learning (Scheduled 8:30pm, 25 July)     
 ## WEEK 3      
-[Resources](https://drive.google.com/drive/u/0/folders/1DTLaqsKjJXCdGf5qZYSRqYj-mLfrRjHy) || [Code]() || [Quiz]()    
+[Resources](https://drive.google.com/drive/u/0/folders/1DTLaqsKjJXCdGf5qZYSRqYj-mLfrRjHy) || [Dataset1](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/adicherla/week%203/AppleStore.csv) || [Dataset2](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/adicherla/week%203/appleStore_description.csv) || [Code](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/adicherla/week%203/App_RecommendationSystem.ipynb) || [Quiz](https://docs.google.com/forms/d/e/1FAIpQLScKqGzsAaI6kbtcNyj6b70LPwDkfIZMMLwm6GOub4GrvN8pag/viewform)    
 Note:
 -  Recommendation system 
 -  Can choose any data (the resource link has Books Dataset)
@@ -101,15 +101,21 @@ Note:
 Warning: We'll use the same system in the 4th week, mean we deploy the model.    
 ### DAY 21 | 30 July
 [Session Recording and Resources](https://drive.google.com/drive/u/0/folders/1DTLaqsKjJXCdGf5qZYSRqYj-mLfrRjHy)      
-[Work on the assignment 3]()    
+[Work on the assignment 3](https://github.com/AdicherlaVenkataSai/acm-ml-internship/tree/master/adicherla/week%203)    
 ### DAY 22 | 31 July    
-[Work on the assignment 3]()     
+[Work on the assignment 3](https://github.com/AdicherlaVenkataSai/acm-ml-internship/tree/master/adicherla/week%203)     
 ### DAY 23 | 1 August      
-[Work on the assignment 3]()     
+[Work on the assignment 3](https://github.com/AdicherlaVenkataSai/acm-ml-internship/tree/master/adicherla/week%203)     
 ### DAY 24 | 2 August      
-[Work on the assignment 3]()     
-[Check submission here...]()     
-Note: Submission on 2nd august.
+[Work on the assignment 3](https://github.com/AdicherlaVenkataSai/acm-ml-internship/tree/master/adicherla/week%203)     
+[Check submission here...](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/adicherla/week%203/App_RecommendationSystem.ipynb)         
+Note: Submission on 2nd august.     
+### DAY 25 | 3 August      
+[Refreshing Concepts](https://drive.google.com/drive/folders/1w5JQjQNVsItKZaEL_6ZkO14auxGDg-TE?usp=sharing)    
+[tutorial 1](https://youtu.be/-agdLu4tPxk) || [tutorial 2](https://github.com/krishnaik06/Recommendation_complete_tutorial/blob/master/KNN%20Books%20Recommendation/BooksRecommendation.ipynb) || [tutorial 3](https://youtu.be/40vZLRxyus4)
+### DAY 26 | 4 August      
+[Refreshing Concepts](https://drive.google.com/drive/folders/1w5JQjQNVsItKZaEL_6ZkO14auxGDg-TE?usp=sharing)    
+[tutorial 1](https://youtu.be/-agdLu4tPxk) || [tutorial 2](https://github.com/krishnaik06/Recommendation_complete_tutorial/blob/master/KNN%20Books%20Recommendation/BooksRecommendation.ipynb) || [tutorial 3](https://youtu.be/40vZLRxyus4)
          
 
 
