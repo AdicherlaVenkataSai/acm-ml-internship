@@ -115,6 +115,8 @@ Note: Submission on 2nd august.
 [tutorial 1](https://youtu.be/-agdLu4tPxk) || [tutorial 2](https://github.com/krishnaik06/Recommendation_complete_tutorial/blob/master/KNN%20Books%20Recommendation/BooksRecommendation.ipynb) || [tutorial 3](https://youtu.be/40vZLRxyus4)
 ### DAY 26 | 4 August      
 [Refreshing Concepts](https://drive.google.com/drive/folders/1w5JQjQNVsItKZaEL_6ZkO14auxGDg-TE?usp=sharing)    
+[tutorial 1](https://youtu.be/-agdLu4tPxk) || [tutorial 2](https://github.com/krishnaik06/Recommendation_complete_tutorial/blob/master/KNN%20Books%20Recommendation/BooksRecommendation.ipynb) || [tutorial 3](https://youtu.be/40vZLRxyus4)    
+### DAY 27 | 5 August      
 [tutorial 1](https://youtu.be/-agdLu4tPxk) || [tutorial 2](https://github.com/krishnaik06/Recommendation_complete_tutorial/blob/master/KNN%20Books%20Recommendation/BooksRecommendation.ipynb) || [tutorial 3](https://youtu.be/40vZLRxyus4)
          
 
