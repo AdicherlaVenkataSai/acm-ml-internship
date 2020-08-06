@@ -17,7 +17,9 @@ Note:
 -  Recommendation system 
 -  Can choose any data (the resource link has Books Dataset)
 -  Can choose any algorithm (Preferably Unsupervised)    
-Warning: We'll use the same system in the 4th week, mean we deploy the model.
+Warning: We'll use the same system in the 4th week, mean we deploy the model.    
+## WEEK 4      
+[deploying models (learning)](https://www.youtube.com/watch?v=bjsJOl8gz5k&list=PLZoTAELRMXVOAvUbePX1lTdxQR8EY35Z1) || [Resources]() || [Code]()
 
 
 [ACM Interview Preparation Bootcamp](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/BootCamp.jpeg)  
@@ -117,7 +119,10 @@ Note: Submission on 2nd august.
 [Refreshing Concepts](https://drive.google.com/drive/folders/1w5JQjQNVsItKZaEL_6ZkO14auxGDg-TE?usp=sharing)    
 [tutorial 1](https://youtu.be/-agdLu4tPxk) || [tutorial 2](https://github.com/krishnaik06/Recommendation_complete_tutorial/blob/master/KNN%20Books%20Recommendation/BooksRecommendation.ipynb) || [tutorial 3](https://youtu.be/40vZLRxyus4)    
 ### DAY 27 | 5 August      
-[tutorial 1](https://youtu.be/-agdLu4tPxk) || [tutorial 2](https://github.com/krishnaik06/Recommendation_complete_tutorial/blob/master/KNN%20Books%20Recommendation/BooksRecommendation.ipynb) || [tutorial 3](https://youtu.be/40vZLRxyus4)
+[tutorial 1](https://youtu.be/-agdLu4tPxk) || [tutorial 2](https://github.com/krishnaik06/Recommendation_complete_tutorial/blob/master/KNN%20Books%20Recommendation/BooksRecommendation.ipynb) || [tutorial 3](https://youtu.be/40vZLRxyus4)    
+### DAY 28 | 6 August      
+[tutorial 1](https://youtu.be/-agdLu4tPxk) || [tutorial 2](https://github.com/krishnaik06/Recommendation_complete_tutorial/blob/master/KNN%20Books%20Recommendation/BooksRecommendation.ipynb) || [tutorial 3](https://youtu.be/40vZLRxyus4)    
+[deploying models (learning)](https://www.youtube.com/watch?v=bjsJOl8gz5k&list=PLZoTAELRMXVOAvUbePX1lTdxQR8EY35Z1)
          
 
 
