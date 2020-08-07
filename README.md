@@ -122,7 +122,19 @@ Note: Submission on 2nd august.
 [tutorial 1](https://youtu.be/-agdLu4tPxk) || [tutorial 2](https://github.com/krishnaik06/Recommendation_complete_tutorial/blob/master/KNN%20Books%20Recommendation/BooksRecommendation.ipynb) || [tutorial 3](https://youtu.be/40vZLRxyus4)    
 ### DAY 28 | 6 August      
 [tutorial 1](https://youtu.be/-agdLu4tPxk) || [tutorial 2](https://github.com/krishnaik06/Recommendation_complete_tutorial/blob/master/KNN%20Books%20Recommendation/BooksRecommendation.ipynb) || [tutorial 3](https://youtu.be/40vZLRxyus4)    
-[deploying models (learning)](https://www.youtube.com/watch?v=bjsJOl8gz5k&list=PLZoTAELRMXVOAvUbePX1lTdxQR8EY35Z1)
+[deploying models (learning)](https://www.youtube.com/watch?v=bjsJOl8gz5k&list=PLZoTAELRMXVOAvUbePX1lTdxQR8EY35Z1)      
+### DAY 29 | 7 August  
+Developing an web application (Flask, html) and deploying it (Heroku)      
+-  1. Colloborative based
+   -  a. Memory based
+      -  i. Item based
+      -  ii. User based
+   -  b. Model based
+-  2. Content based 
+
+Note: (currently figuring out the entire structures of code to be) 
+
+
          
 
 
