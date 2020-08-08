@@ -125,15 +125,13 @@ Note: Submission on 2nd august.
 [deploying models (learning)](https://www.youtube.com/watch?v=bjsJOl8gz5k&list=PLZoTAELRMXVOAvUbePX1lTdxQR8EY35Z1)      
 ### DAY 29 | 7 August  
 Developing an web application (Flask, html) and deploying it (Heroku)      
--  1. Colloborative based
-   -  a. Memory based
-      -  i. Item based
-      -  ii. User based
-   -  b. Model based
--  2. Content based 
+Note: Currently the work is halted.    
+### DAY 30 | 8 August      
+Note: Currently the work is halted.
 
-Note: (currently figuring out the entire structures of code to be) 
+***End of the internship***
 
+***Thank you for walkng till end!!!***
 
          
 
