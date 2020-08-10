@@ -1,3 +1,5 @@
+# ACM ISM DHANBAD MACHINE LEARNING INTERNSHIP   
+
 [ROADMAP](https://docs.google.com/document/d/1i_RnLREwEMPZ7rTyEBybQCHi_eiI7csW/edit)
 ## WEEK 1   
 [Resources](https://drive.google.com/drive/folders/1gCqtfG3NTapGiPJGgHsajWbi1FpbG9xp) || [Assignment Details](https://drive.google.com/drive/folders/1hnRcA5Ehl_B5IlxWgeTX83y3NX7ZV_4W) || [PPT](https://docs.google.com/presentation/d/11gibQ2hERG3WK2tlDTgzc7px8o9HLLkKIFciookATYA/edit?usp=sharing) || [Udemy dataset](https://drive.google.com/file/d/1EDd0m2naDuXXwYZRwwEjMRztOF6ZrL_l/view?usp=sharing) || [Harvard dataset](https://drive.google.com/file/d/10jpyLp28eJPv1CPfBhyWM4OiQcrZNKdD/view?usp=sharing) || [Code](https://colab.research.google.com/drive/1MaMMC-TLH2ji4FEm-2AubHXRNQkiqHsP?usp=sharing) || [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSe2sGo_gu1lQdEA0BSqVqQDfiKE_-v6DPgdj8Hpf7YrTxo2QA/viewform?vc=0&c=0&w=1&usp=mail_form_link)    
