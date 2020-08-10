@@ -1,15 +1,28 @@
-# ACM ISM DHANBAD MACHINE LEARNING INTERNSHIP   
-
-Guys    
-kindly Create PR for the repository and contribute!!    
-
 [ROADMAP](https://docs.google.com/document/d/1i_RnLREwEMPZ7rTyEBybQCHi_eiI7csW/edit)
 ## WEEK 1   
-[Resources](https://drive.google.com/drive/folders/1gCqtfG3NTapGiPJGgHsajWbi1FpbG9xp)   
-[Assignment Details](https://drive.google.com/drive/folders/1hnRcA5Ehl_B5IlxWgeTX83y3NX7ZV_4W)    
-[txt](https://docs.google.com/document/d/1yFZHLRqD2fXqcUHhJeax9EHdKVkw3CehsPtUKlxOg1c/edit?usp=sharing) || [ppt](https://docs.google.com/presentation/d/11gibQ2hERG3WK2tlDTgzc7px8o9HLLkKIFciookATYA/edit?usp=sharing) || [Dataset](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/week%201/udemy_courses.csv) || [Code](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/week%201/week%201.ipynb)    
-Note: Code isn't complete!!!    
-Warning: Deadline is on/before 17th July(11:59 pm) 
+[Resources](https://drive.google.com/drive/folders/1gCqtfG3NTapGiPJGgHsajWbi1FpbG9xp) || [Assignment Details](https://drive.google.com/drive/folders/1hnRcA5Ehl_B5IlxWgeTX83y3NX7ZV_4W) || [PPT](https://docs.google.com/presentation/d/11gibQ2hERG3WK2tlDTgzc7px8o9HLLkKIFciookATYA/edit?usp=sharing) || [Udemy dataset](https://drive.google.com/file/d/1EDd0m2naDuXXwYZRwwEjMRztOF6ZrL_l/view?usp=sharing) || [Harvard dataset](https://drive.google.com/file/d/10jpyLp28eJPv1CPfBhyWM4OiQcrZNKdD/view?usp=sharing) || [Code](https://colab.research.google.com/drive/1MaMMC-TLH2ji4FEm-2AubHXRNQkiqHsP?usp=sharing) || [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSe2sGo_gu1lQdEA0BSqVqQDfiKE_-v6DPgdj8Hpf7YrTxo2QA/viewform?vc=0&c=0&w=1&usp=mail_form_link)    
+Topics: SQL(beginner - advance level), Pandas, Numpy, Mathematics and concepts discussed in sessions.   
+Warning: Assignment deadline is on/before 17th July(11:59 pm)   
+## WEEK 2   
+[Resources](https://drive.google.com/drive/folders/13XMOwskEBk-_9qloihn1dsJElIBNjaIR) || [Assignment Details](https://drive.google.com/drive/folders/1tXUGuxdzwOTBZTd1073X2YE0YbMQ3IFz) || [PPT]() || [Dataset](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/adicherla/week%202/bank-full.csv) || [Code](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/adicherla/week%202/week_2%20(1).ipynb) || [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfeU9kKSBLx9zbdJIkssgfNisjChJNw4G_L4SKZ_L2cQLPb0Q/viewform)  
+Warning: Assignment deadline is on/before 25th July(11:59 pm)  
+Note: Quiz on Machine Learning (Scheduled 8:30pm, 25 July)     
+## WEEK 3      
+[Resources](https://drive.google.com/drive/u/0/folders/1DTLaqsKjJXCdGf5qZYSRqYj-mLfrRjHy) || [Dataset1](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/adicherla/week%203/AppleStore.csv) || [Dataset2](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/adicherla/week%203/appleStore_description.csv) || [Code](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/adicherla/week%203/App_RecommendationSystem.ipynb) || [Quiz](https://docs.google.com/forms/d/e/1FAIpQLScKqGzsAaI6kbtcNyj6b70LPwDkfIZMMLwm6GOub4GrvN8pag/viewform)    
+Note:
+-  Recommendation system 
+-  Can choose any data (the resource link has Books Dataset)
+-  Can choose any algorithm (Preferably Unsupervised)    
+Warning: We'll use the same system in the 4th week, mean we deploy the model.    
+## WEEK 4      
+[deploying models (learning)](https://www.youtube.com/watch?v=bjsJOl8gz5k&list=PLZoTAELRMXVOAvUbePX1lTdxQR8EY35Z1) || [Resources]() || [Code]()
+
+
+[ACM Interview Preparation Bootcamp](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/BootCamp.jpeg)  
+[Click here for more details...](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/ACM%20Bootcamp.pdf)  
+[Register here...](https://docs.google.com/forms/d/e/1FAIpQLSeISi89wkN6o_r1LMowi7pBZwIsXJHhfu5CkHbOoZVRrSc9rQ/viewform)
+
+ 
 ### DAY 1 | 10 July   
 [Session Recording](https://www.dropbox.com/sh/wkwm1di477x5k0y/AABHhBxbE9VFT4NgynXsYV0Qa?dl=0)    
 ### DAY 2 | 11 July   
@@ -27,7 +40,100 @@ Note: Check out the assignment for Week 1 [here](https://drive.google.com/drive/
 [Assignment Soultion](https://github.com/AdicherlaVenkataSai/acm-ml-internship/tree/master/week%201)   
 Note: Solution isn't completed yet!!!   
 ### DAY 4 | 13  July    
-[Session Recording]()
+[Work on the assignment 1](https://drive.google.com/drive/folders/1hnRcA5Ehl_B5IlxWgeTX83y3NX7ZV_4W)    
+### DAY 5 | 14 July   
+[Work on the assignment 1](https://drive.google.com/drive/folders/1hnRcA5Ehl_B5IlxWgeTX83y3NX7ZV_4W)
+### DAY 6 | 15 July   
+[Work on the assignment 1](https://drive.google.com/drive/folders/1hnRcA5Ehl_B5IlxWgeTX83y3NX7ZV_4W)    
+### DAY 7 | 16 July   
+[Work on the assignment 1](https://drive.google.com/drive/folders/1hnRcA5Ehl_B5IlxWgeTX83y3NX7ZV_4W)    
+### DAY 8 | 17 July   
+[Check submission here..](https://github.com/AdicherlaVenkataSai/acm-ml-internship/tree/master/adicherla/week%201)    
+### DAY 9 | 18 July    
+[Session Recording and Resources](https://drive.google.com/folderview?id=12auVoHz6rpLPm5cCCP3_Ld7ZYuwHZcoV)   
+[QUIZ](https://docs.google.com/forms/d/e/1FAIpQLSe2sGo_gu1lQdEA0BSqVqQDfiKE_-v6DPgdj8Hpf7YrTxo2QA/viewform?vc=0&c=0&w=1&usp=mail_form_link)   
+Note: Scheduled at 8:30pm(Completed)    
+[How I got a Job at Facebook, California](https://www.youtube.com/watch?v=XEHY2hQsHB8&feature=youtu.be)   
+### DAY 10 | 19 July   
+[Refreshing Concepts](https://drive.google.com/drive/folders/1w5JQjQNVsItKZaEL_6ZkO14auxGDg-TE?usp=sharing)   
+[A. Acacius and String | Codeforces Round #657 (Div 2)](https://www.youtube.com/watch?v=jyi0VSDFc90&feature=youtu.be)   
+### DAY 11 | 20 July   
+[Session Recording and Resources](https://drive.google.com/file/d/1GOx2qZxE9amzXBD7c8miINb73wj2qMXs/view)   
+Note: Topics(Linear, Logistic Regressions) Scheduled (7:30 pm, 20 July)   
+### DAY 12 | 21 July   
+[Session Recording and Resources](https://drive.google.com/file/d/1GOx2qZxE9amzXBD7c8miINb73wj2qMXs/view)   
+Note: Topics(web scrapping)  
+### DAY 13 | 22 July  
+[Codeforces problem A](https://www.youtube.com/watch?v=l7rFxqFC_m0&feature=youtu.be)  
+[Codeforces problem B](https://www.youtube.com/watch?v=uMqAJv5OS_I&feature=youtu.be)  
+[Codeforces problem C](https://www.youtube.com/watch?v=-BqH7BS4ThA&feature=youtu.be)  
+[Work on the assignment 2](https://colab.research.google.com/drive/1-3eViQahTbag15hlBVocLhJdU5lfTAQU?usp=sharing)  
+### DAY 14 | 23 July  
+[Work on the assignment 2](https://colab.research.google.com/drive/1-3eViQahTbag15hlBVocLhJdU5lfTAQU?usp=sharing)  
+### DAY 15 | 24 July  
+[Work on the assignment 2](https://colab.research.google.com/drive/1-3eViQahTbag15hlBVocLhJdU5lfTAQU?usp=sharing)  
+### DAY 16 | 25 July  
+[Codeforeces String Transformation](https://www.youtube.com/watch?v=_iwbXqf-3T8&feature=youtu.be)  
+[Work on the assignment 2](https://colab.research.google.com/drive/1-3eViQahTbag15hlBVocLhJdU5lfTAQU?usp=sharing)  
+[Check submission here...](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/adicherla/week%202/week_2%20(1).ipynb)  
+Note: Quiz on Machine Learning (Scheduled 8:30pm, 25 July)     
+### DAY 17 | 26 July     
+[Refreshing Concepts](https://drive.google.com/drive/folders/1w5JQjQNVsItKZaEL_6ZkO14auxGDg-TE?usp=sharing)    
+### DAY 18 | 27 July     
+[Refreshing Concepts](https://drive.google.com/drive/folders/1w5JQjQNVsItKZaEL_6ZkO14auxGDg-TE?usp=sharing)    
+ACM Interview Prep Bootcamp(Cheapest Bootcamp over the web) || [Video](https://youtu.be/OtSnwUbRQ6Q) || [Enroll here](https://forms.gle/B4CVJigFjsiHedi6A) || [more details](http://iitism.acm.org/ipc.html)
+-  40+ Video Lectures and LIVE sessions
+-  Mock Interviews
+-  LIVE Doubt Sessions
+-  Microsoft Course Completion Certificate
+-  Notes and Source Code      
+### DAY 19 | 28 July     
+[Refreshing Concepts](https://drive.google.com/drive/folders/1w5JQjQNVsItKZaEL_6ZkO14auxGDg-TE?usp=sharing)    
+Note: Recommendation Systems (Session 12:00, 29 July)    
+### DAY 20 | 29 July    
+[Session Recording and Resources](https://drive.google.com/drive/u/0/folders/1DTLaqsKjJXCdGf5qZYSRqYj-mLfrRjHy)      
+Note:
+-  Recommendation system 
+-  Can choose any data (the resource link has Books Dataset)
+-  Can choose any algorithm (Preferably Unsupervised)    
+Warning: We'll use the same system in the 4th week, mean we deploy the model.    
+### DAY 21 | 30 July
+[Session Recording and Resources](https://drive.google.com/drive/u/0/folders/1DTLaqsKjJXCdGf5qZYSRqYj-mLfrRjHy)      
+[Work on the assignment 3](https://github.com/AdicherlaVenkataSai/acm-ml-internship/tree/master/adicherla/week%203)    
+### DAY 22 | 31 July    
+[Work on the assignment 3](https://github.com/AdicherlaVenkataSai/acm-ml-internship/tree/master/adicherla/week%203)     
+### DAY 23 | 1 August      
+[Work on the assignment 3](https://github.com/AdicherlaVenkataSai/acm-ml-internship/tree/master/adicherla/week%203)     
+### DAY 24 | 2 August      
+[Work on the assignment 3](https://github.com/AdicherlaVenkataSai/acm-ml-internship/tree/master/adicherla/week%203)     
+[Check submission here...](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/adicherla/week%203/App_RecommendationSystem.ipynb)         
+Note: Submission on 2nd august.     
+### DAY 25 | 3 August      
+[Refreshing Concepts](https://drive.google.com/drive/folders/1w5JQjQNVsItKZaEL_6ZkO14auxGDg-TE?usp=sharing)    
+[tutorial 1](https://youtu.be/-agdLu4tPxk) || [tutorial 2](https://github.com/krishnaik06/Recommendation_complete_tutorial/blob/master/KNN%20Books%20Recommendation/BooksRecommendation.ipynb) || [tutorial 3](https://youtu.be/40vZLRxyus4)
+### DAY 26 | 4 August      
+[Refreshing Concepts](https://drive.google.com/drive/folders/1w5JQjQNVsItKZaEL_6ZkO14auxGDg-TE?usp=sharing)    
+[tutorial 1](https://youtu.be/-agdLu4tPxk) || [tutorial 2](https://github.com/krishnaik06/Recommendation_complete_tutorial/blob/master/KNN%20Books%20Recommendation/BooksRecommendation.ipynb) || [tutorial 3](https://youtu.be/40vZLRxyus4)    
+### DAY 27 | 5 August      
+[tutorial 1](https://youtu.be/-agdLu4tPxk) || [tutorial 2](https://github.com/krishnaik06/Recommendation_complete_tutorial/blob/master/KNN%20Books%20Recommendation/BooksRecommendation.ipynb) || [tutorial 3](https://youtu.be/40vZLRxyus4)    
+### DAY 28 | 6 August      
+[tutorial 1](https://youtu.be/-agdLu4tPxk) || [tutorial 2](https://github.com/krishnaik06/Recommendation_complete_tutorial/blob/master/KNN%20Books%20Recommendation/BooksRecommendation.ipynb) || [tutorial 3](https://youtu.be/40vZLRxyus4)    
+[deploying models (learning)](https://www.youtube.com/watch?v=bjsJOl8gz5k&list=PLZoTAELRMXVOAvUbePX1lTdxQR8EY35Z1)      
+### DAY 29 | 7 August  
+Developing an web application (Flask, html) and deploying it (Heroku)      
+Note: Currently the work is halted.    
+### DAY 30 | 8 August      
+Note: Currently the work is halted.
+
+***End of the internship***
+
+***Thank you for walkng till end!!!***
+
+         
+
+
+
+
 
 
 For Additional Courses with free Certification/Books/Ebooks/CookBooks/CheatSheets/live sessions/many more details of Machine Learning, DataScience and Python [Click here...](https://github.com/AdicherlaVenkataSai/machine-learning-beginners-hub/blob/master/README.md)    
@@ -38,4 +144,4 @@ IF want to contribute create a PR
 
 
 
-I have created pull request (ananya shamal)
+
