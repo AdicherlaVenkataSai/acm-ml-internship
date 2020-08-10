@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Recommendor System</title>
+    <title>Recommendor System(APP)</title>
     <link rel="shortcut icon" href="/static/favicon.png">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
@@ -12,29 +12,13 @@
   <body>
     <div class="container">
     <nav class="navbar navbar-light bg-light">
-      <h3><a style="color:rgb(0, 102, 255)" class="nav-link" href="{{url_for('home')}}">Home</a></h3>
+      <h3><a style="color:rgb(0, 102, 255)" class="nav-link" href="{{url_for('home')}}">home</a></h3>
     </nav>
 
       <div class="jumbotron">
         {% block content %}
         {% endblock %}
       </div>
-
-    <div class="card mb-3" style="max-width: 650px;">
-      <div class="row no-gutters">
-        <div class="col-md-4">
-          <img src="/static/profile.jpg" class="card-img" alt="...">
-        </div>
-        <div class="col-md-8">
-          <div class="card-body">
-            <h5 class="card-title">Prashant Jha</h5>
-            <p class="card-text">I'm a Data Science enthusiast who loves to play with machine learning.</p>
-            <p>Click the link below to know about me!</p>
-            <a href="https://www.linkedin.com/in/prashant-jha-10ab3a142/" class="btn btn-primary" target="_blank">Linkedin</a>
-          </div>
-        </div>
-      </div>
-    </div>
-    </div>
+	</div>
   </body>
 </html>
