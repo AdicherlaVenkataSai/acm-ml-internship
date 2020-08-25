@@ -137,7 +137,7 @@ Note: Currently the work is halted.
 
 
 
-
+![Certificate](https://github.com/AdicherlaVenkataSai/acm-ml-internship/blob/master/acm-ml-internship.PNG)
 
 
 For Additional Courses with free Certification/Books/Ebooks/CookBooks/CheatSheets/live sessions/many more details of Machine Learning, DataScience and Python [Click here...](https://github.com/AdicherlaVenkataSai/machine-learning-beginners-hub/blob/master/README.md)    
